@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MauiArgh.WinUI": {
+      "commandName": "AppContainer"
+    }
+  }
+}
